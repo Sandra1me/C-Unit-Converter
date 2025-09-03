@@ -6,7 +6,7 @@ This is a command-line program written in C that allows you to convert between d
 
 You can compile the program using `gcc`:
 
-```bash
+```c
 gcc conversor.c -o conversor
 ```
 
@@ -14,7 +14,7 @@ gcc conversor.c -o conversor
 
 After compiling, run the program from your terminal:
 
-```python
+```c
 ./conversor
 ```
 
